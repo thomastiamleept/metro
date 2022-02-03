@@ -1,0 +1,2 @@
+Note:
+Due to confidentiality requirements, the sample data provided is randomly sampled from the original data (20%), and only features trips made on a single arbitrary day. Noise was added as well, making it synthetic, but resembles the original distribution of the data. It also only contains the minimum information needed to run the algorithm. As such, details such as card numbers are omitted.
